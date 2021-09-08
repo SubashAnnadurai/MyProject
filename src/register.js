@@ -1,0 +1,1 @@
+alert("Register student using the form")
